@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 输出与临时
+*_beautified.pptx
+_t_*.pptx
+_cover_*.pptx
+*.tmp
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 密钥（永不上传）
+config.json
+.env
+*.token
